@@ -3,3 +3,6 @@ This project explores US agricultural production data using SQL (JOIN, GROUP BY,
 ### Query 1: Top 10 Milk Producing States (Annual)
 * **Objective:** Identify the leading states in overall milk production by filtering for yearly data.
 * **Insight:** The analysis reveals that Wisconsin and California are the dominant leaders in the US dairy industry, producing significantly more milk than the next highest states (New York and Minnesota).
+### Query 2: Top 5 Cheese Producing States (Annual)
+* **Objective:** Determine the leading states in cheese production using filtered annual data.
+* **Insight:** Wisconsin maintains its absolute dominance in the dairy sector by leading the US in cheese production, followed by California. This perfectly mirrors the milk production trends, highlighting these two states as the core of the US dairy supply chain.
